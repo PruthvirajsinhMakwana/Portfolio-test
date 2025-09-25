@@ -198,7 +198,7 @@ const ContactSection = () => {
                 </div>
                 
                 <button 
-                  onClick={() => window.open('https://wa.me/your-number', '_blank')}
+                  onClick={() => window.open('https://wa.me/7016592727', '_blank')}
                   className="w-full bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-300 inline-flex items-center justify-center gap-2"
                 >
                   <MessageCircle size={20} />
