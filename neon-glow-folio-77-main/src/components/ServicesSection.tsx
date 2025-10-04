@@ -123,7 +123,7 @@ const ServicesSection = () => {
                     backgroundClip: 'padding-box, border-box',
                     border: '1px solid transparent',
                   }}
-                  onClick={() => window.open('https://wa.me/your-number', '_blank')}
+                  onClick={() => window.open('https://wa.me/7016592727', '_blank')}
                 >
                   <span className="flex items-center justify-center gap-2">
                     <MessageCircle size={16} />
